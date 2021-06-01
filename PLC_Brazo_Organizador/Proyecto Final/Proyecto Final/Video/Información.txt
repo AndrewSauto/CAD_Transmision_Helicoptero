@@ -1,0 +1,5 @@
+En el video se puede ver el comportamiento deseado del
+brazo robótico. El brazo debe acoplar las piezas que son
+del mismo color y colocarlas en su banda correspondiente,
+si el color es distinto se desecha la "TAPA" y se espera
+la próxima "TAPA".
